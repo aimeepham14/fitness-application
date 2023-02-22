@@ -95,9 +95,10 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                             {errors.email.type === "pattern" && "Invalid email address."}
                         </p>
                     )}
-                    <input 
+                    <textarea 
                         className={inputStyles}
-                        type="text"
+                        rows={4}
+                        cols={50}
                         placeholder="MESSAGE"
                         {...register("message", {
                             required: true,
