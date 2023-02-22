@@ -10,3 +10,10 @@ export interface BenefitType {
     title: string;
     description: string;
 }
+
+// adding the questionmark makes it option to add a description
+export interface ClassType {
+    name: string;
+    description?: string;
+    image: string;
+}
