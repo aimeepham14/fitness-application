@@ -1,6 +1,7 @@
 # Evogym
 
 There's no better time than now to kick-start your fitness routine. Run, jump, squat or spin - workout how you want with No Judgements!
+Link to website [here](https://evogym-fitness-site.netlify.app/)
 **Disclaimer this is not a real gym website. This is just for a personal project.
 
 ## Technology Stack:
