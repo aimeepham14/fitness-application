@@ -42,7 +42,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <HText>
                 <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
             </HText>
-            <p className="my-5">Add a description here</p>
+            <p className="my-5">Try us - fill out the form below and we'll email you a free 1-day pass! </p>
         </motion.div>
         
         {/* FORM AND IMAGE */}
@@ -139,7 +139,6 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                         src={ContactUsPageGraphic}
                     />
                 </div>
-
             </motion.div>
         </div>
 

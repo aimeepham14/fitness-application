@@ -127,8 +127,8 @@ const Benefits = ( {setSelectedPage}: Props) => {
                             visible: { opacity: 1, x: 0 },
                         }}
                     >
-                        <p className="my-5">Add a main description here</p>
-                        <p className="mb-5">Add another main description here</p>
+                        <p className="my-5">A diverse, Judgement Free Zone where a lasting, active lifestyle can be built.</p>
+                        <p className="mb-5">Our product is a tool, a means to an end; not a brand name or a mold-maker, but a tool that can be used by anyone. In the end, it's all about you. As we evolve and educate ourselves, we will seek to perfect this safe, energetic environment, where everyone feels accepted and respected. We are not here to kiss your butt, only to kick it if that's what you need. </p>
                     </motion.div>
 
                     {/* BUTTON */}

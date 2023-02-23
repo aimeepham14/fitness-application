@@ -11,33 +11,33 @@ import Class from "./Class";
 
 const classes: Array<ClassType> = [
     {
-        name: "Weight Training Classes",
-        description: "Add a description here",
+        name: "Strength Training Classes",
+        description: "Fun, functional and always fresh, this workout helps tone and fine-tune major muscle groups to ignite total-body strength and coordination.",
         image: image1,
     },
     {
-        name: "Fitness Training Classes",
-        description: "Add a description here",
+        name: "Pilates Training Classes",
+        description: "Sculpt a rock-solid core like never before! Created by YouTube fitness star Cassey Ho, this mat-based workout adds a fun pop-music twist to uplift your body and your day.",
         image: image2,
     },
     {
-        name: "Adventure Training Classes",
-        description: "Add a description here",
+        name: "Core and Cardio Lift Classes",
+        description: "Love your abs. Light up your fitness. This total-body conditioning class fuses cardio, core and strength training.",
         image: image3,
     },
     {
-        name: "Ab Core Training Classes",
-        description: "Add a description here",
+        name: "Resistance Band Training Classes",
+        description: "Using resistance bands, plates, and bodyweight exercises, this 30-minute session strengthens your back, quads, hamstrings and core.",
         image: image4,
     },
     {
-        name: "Yoga Training Classes",
-        description: "Add a description here",
+        name: "High-Intensity Interval Training Classes",
+        description: "Stop counting the reps. Start training to the beat. Every squat, lunge, and burpee is driven by the music, helping you make it to that last rep, and maybe even five more.",
         image: image5,
     },
     {
-        name: "Training Classes",
-        description: "Add a description here",
+        name: " Yoga Classes",
+        description: "Release tension and stiffness, and live more fully. Combining breath work, meditation and movement sequences, our yoga practice leaves you feeling calm and limber from tip to toe.",
         image: image6,
     }
 ]
@@ -65,7 +65,7 @@ const OurClasses = ({ setSelectedPage } : Props) => {
                 <div className="md:w-3/5">
                     <HText>OUR CLASSES</HText>
                     <p className="py-5">
-                        Add a description here
+                        Make it a group thing and find your strength in numbers!
                     </p>
                 </div>
             </motion.div>
